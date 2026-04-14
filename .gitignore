@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.gradio/
+.env
+.venv/
+venv/
+output/*
+!output/.gitkeep
+
